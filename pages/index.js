@@ -106,7 +106,7 @@ export default function Home() {
 
           <footer>
             <div className={style.foot}>
-              <p>@2023 billiamin474@gmail.com</p>
+              {/* <p>@2023 billiamin474@gmail.com</p> */}
             </div>
           </footer>
 
